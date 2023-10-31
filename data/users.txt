@@ -1,0 +1,3 @@
+{"role":"admin","userName":"admin","userEmail":"admin@gmail.com","userPassword":"admin"}
+{"role":"manager","userName":"manager","userEmail":"manager@gmail.com","userPassword":"manager"}
+{"role":"user","userName":"user","userEmail":"user@gmail.com","userPassword":"user"}
